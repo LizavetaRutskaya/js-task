@@ -1,0 +1,20 @@
+{
+    "name": "node-js-project",
+    "version": "1.0.0",
+    "keywords": [
+        "util",
+        "functional",
+        "server",
+        "client",
+        "browser"
+    ],
+    "author": "Lizaveta_Rutskaya",
+    "contributors": [],
+    "dependencies": {},
+    "devDependencies": {
+        "chai": "^4.2.0",
+        "mocha": "^8.2.1",
+        "selenidejs": "^1.3.3",
+        "selenium-webdriver": "^4.0.0-alpha.8"
+    }
+}
